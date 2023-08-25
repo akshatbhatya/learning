@@ -1,3 +1,4 @@
 # learning
-github learning  
-Author : Akshat  Bhatya
+github learning 
+<br>
+<b>Author : Akshat  Bhatya<b>
