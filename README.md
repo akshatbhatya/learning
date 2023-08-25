@@ -1,4 +1,4 @@
 # learning
 github learning 
 <br>
-<b>Author : Akshat  Bhatya<b>
+<b>Author : Akshat  bhatya<b>
